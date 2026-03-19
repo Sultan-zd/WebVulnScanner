@@ -45,7 +45,7 @@ WebVulnScanner is a comprehensive web application security testing tool that hel
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LahsenAitOiahmane/WebVulnScanner.git
+git clone https://github.com/Sultan-zd/WebVulnScanner.git
 cd WebVulnScanner
 ```
 
